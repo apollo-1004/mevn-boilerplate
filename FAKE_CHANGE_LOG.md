@@ -4,3 +4,4 @@
 2023-11-22 12:50:34 +0000 - Updated documentation with examples
 2023-11-25 09:02:48 +0000 - Implemented client-side pagination
 2023-11-26 18:47:52 +0000 - Added support for Docker deployment
+2023-11-26 08:46:27 +0000 - Refactored code to adhere to PEP 8 guidelines
