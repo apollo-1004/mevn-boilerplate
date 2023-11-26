@@ -3,3 +3,4 @@
 2023-11-22 16:22:54 +0000 - Refactored JavaScript code for better modularity
 2023-11-22 12:50:34 +0000 - Updated documentation with examples
 2023-11-25 09:02:48 +0000 - Implemented client-side pagination
+2023-11-26 18:47:52 +0000 - Added support for Docker deployment
