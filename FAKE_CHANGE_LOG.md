@@ -8,3 +8,4 @@
 2023-11-26 14:02:19 +0000 - Updated error messages for clarity
 2023-11-26 14:43:11 +0000 - Refactored code to adhere to PEP 8 guidelines
 2023-12-01 20:16:49 +0000 - Resolved compatibility issues with Python 3.9
+2023-12-01 17:28:22 +0000 - Added support for geolocation
