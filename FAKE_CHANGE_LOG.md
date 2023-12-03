@@ -9,3 +9,4 @@
 2023-11-26 14:43:11 +0000 - Refactored code to adhere to PEP 8 guidelines
 2023-12-01 20:16:49 +0000 - Resolved compatibility issues with Python 3.9
 2023-12-01 17:28:22 +0000 - Added support for geolocation
+2023-12-03 14:52:36 +0000 - Implemented client-side pagination
