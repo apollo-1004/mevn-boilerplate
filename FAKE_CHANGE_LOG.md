@@ -13,3 +13,4 @@
 2023-12-03 12:09:04 +0000 - Fixed XSS vulnerability
 2023-12-04 14:47:17 +0000 - Fixed issue with infinite scroll
 2023-12-04 10:02:29 +0000 - Fixed race condition in concurrent processes
+2023-12-04 11:52:31 +0000 - Added support for Docker deployment
