@@ -21,3 +21,4 @@
 2023-12-11 16:55:54 +0000 - Refactored code for better readability
 2023-12-11 10:03:39 +0000 - Added support for webhooks
 2023-12-11 08:55:52 +0000 - Added unit tests for authentication module
+2023-12-16 13:32:40 +0000 - Implemented new UI design
