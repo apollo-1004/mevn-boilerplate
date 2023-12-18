@@ -23,3 +23,4 @@
 2023-12-11 08:55:52 +0000 - Added unit tests for authentication module
 2023-12-16 13:32:40 +0000 - Implemented new UI design
 2023-12-17 17:30:33 +0000 - Fixed issue with file permissions
+2023-12-18 12:33:29 +0000 - Added support for Docker deployment
