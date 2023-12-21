@@ -25,3 +25,4 @@
 2023-12-17 17:30:33 +0000 - Fixed issue with file permissions
 2023-12-18 12:33:29 +0000 - Added support for Docker deployment
 2023-12-21 20:16:43 +0000 - Implemented client-side validation for forms
+2023-12-21 13:26:48 +0000 - Implemented RESTful API endpoints
