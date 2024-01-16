@@ -57,3 +57,4 @@
 2024-01-14 08:01:18 +0000 - Fixed security vulnerability
 2024-01-14 12:30:55 +0000 - Fixed XSS vulnerability
 2024-01-16 16:29:47 +0000 - Fixed bug in user session management
+2024-01-16 10:35:57 +0000 - Added support for error reporting
