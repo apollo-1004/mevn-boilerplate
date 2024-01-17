@@ -58,3 +58,4 @@
 2024-01-14 12:30:55 +0000 - Fixed XSS vulnerability
 2024-01-16 16:29:47 +0000 - Fixed bug in user session management
 2024-01-16 10:35:57 +0000 - Added support for error reporting
+2024-01-17 15:02:48 +0000 - Added support for Docker deployment
