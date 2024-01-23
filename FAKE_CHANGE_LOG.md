@@ -63,3 +63,4 @@
 2024-01-22 20:41:23 +0000 - Fixed broken integration tests
 2024-01-22 20:10:44 +0000 - Added unit tests for authentication module
 2024-01-22 10:54:10 +0000 - Fixed broken links in documentation
+2024-01-23 08:04:28 +0000 - Implemented client-side validation for forms
